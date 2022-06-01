@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "The Boston";
+    src: url(fontes/The Boston.otf);
+}
+
+h4 {
+    margin-top: 3%;
+    font-family: "The Boston";
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.pull {
+    margin-top: 12%;
+}
+
+.back {
+    background-color: #2b2b2b;
+}
+
+.twhite {
+    color: white;
+}
+
+#flex {
+    background-color: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: none;
+    margin-bottom: none;
+    gap: 0px;
+  }
+
+  .caixa {
+      background-color: #3b3b3b;
+      border-radius: 15px;
+      padding-top: 5%;
+      padding-left: 5%;
+      padding-right: 5%;
+      padding-bottom: 3%;
+      
+
+  }
